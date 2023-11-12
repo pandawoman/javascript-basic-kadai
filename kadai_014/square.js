@@ -1,5 +1,4 @@
-const double =(num) => {
-  return num * 2;
+const total = (num) => {
+  return num **2;
 }
-
-console.log(double(50));
+console.log(total(10));
